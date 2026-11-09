@@ -1,0 +1,9 @@
+﻿@model BlogWithEf.Models.Post
+
+<h1>@Model.Title</h1>
+<p><strong>Author:</strong> @Model.Author</p>
+<p><strong>Created:</strong> @Model.CreatedUtc</p>
+<hr />
+<p>@Model.Body</p>
+
+<a asp-action="Index">Back to list</a>

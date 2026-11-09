@@ -1,0 +1,28 @@
+﻿@model List<BlogWithEf.Models.Post>
+
+<h1>Posts</h1>
+<br>
+<a asp-action="Create"><button type="button">Create New Post</button></a>
+<br>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Created</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var post in Model)
+        {
+            <tr>
+                <td>@post.Title</td>
+                <td>@post.Author</td>
+                <td>@post.CreatedUtc</td>
+				<td><a asp-action="Details" asp-route-id="@post.Id">View Details</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

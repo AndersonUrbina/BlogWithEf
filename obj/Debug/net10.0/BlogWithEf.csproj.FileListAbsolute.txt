@@ -1,0 +1,426 @@
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\BlogWithEf.csproj.AssemblyReference.cache
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\BlogWithEf.GeneratedMSBuildEditorConfig.editorconfig
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\BlogWithEf.AssemblyInfoInputs.cache
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\BlogWithEf.AssemblyInfo.cs
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\BlogWithEf.csproj.CoreCompileInputs.cache
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\BlogWithEf.MvcApplicationPartsAssemblyInfo.cache
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\BlogWithEf.RazorAssemblyInfo.cache
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\BlogWithEf.RazorAssemblyInfo.cs
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\appsettings.Development.json
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\appsettings.json
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\BlogWithEf.staticwebassets.runtime.json
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\BlogWithEf.staticwebassets.endpoints.json
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\BlogWithEf.exe
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\BlogWithEf.deps.json
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\BlogWithEf.runtimeconfig.json
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\BlogWithEf.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\BlogWithEf.pdb
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\Humanizer.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\System.CodeDom.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\scopedcss\bundle\BlogWithEf.styles.css
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\scopedcss\projectbundle\BlogWithEf.bundle.scp.css
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\yv2e3t8klz-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\nvbiyjdoma-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\mzittzj1hq-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\v22obz182i-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\bz7y87vc1g-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\9ob9bcdmpy-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\p8dzot382b-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\s3rtigz928-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\rzi588mdhl-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\76oh917znr-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\elibkmaugc-{0}-ub07r2b239-ub07r2b239.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\fp5p6clq22-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\4sbpentmln-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\amqqsxksqm-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\wkp27ialq7-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\4b85i9vjww-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\eg78bk09gm-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\k9cb4lowsx-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\b9wooq9yv0-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\6gd2wklzli-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\ikzn0uirmo-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\46aseiablx-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\uix4umo4kk-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\gic587k3en-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\pkqml1jwxl-{0}-06098lyss8-06098lyss8.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\6s2slewqnd-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\uucugfqnjh-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\xni0d9xqee-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\90hacay57y-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\2wtw2a3tgc-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\dufb8g1xae-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\5u6my4eqee-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\9ngvc67nuh-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\5da2bfyqnm-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\4ac4o7mjhi-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\id6n659ohw-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\8xyg5baoly-{0}-493y06b0oq-493y06b0oq.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\ydhgi3e3o6-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\4j9chliwnf-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\9uamfc30ff-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\jja3svp98v-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\ldwved04km-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\jhepc2gxnp-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\gosz32n2dg-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\2fsj8sle9y-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\zqdq0iudpl-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\aaprillz4k-{0}-47otxtyo56-47otxtyo56.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\zyym5adxyr-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\t2ak7rdunu-{0}-356vix0kms-356vix0kms.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\99j4kkclxy-{0}-83jwlth58m-83jwlth58m.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\ysy34k91o3-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\2pc76agarx-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\vdh0f9rv9f-{0}-ag7o75518u-ag7o75518u.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\0z9pujnvxb-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\0795tulmp2-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\wayxh6p5yw-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\sienhe6nfv-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\yvjzj0ye4u-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\ciu3ozcjjf-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\ky46fw8nf0-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\25z8fkzqdo-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\a1u3mbisua-{0}-rvkugesy2u-rvkugesy2u.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\qpm76n4ngd-{0}-rvkugesy2u-rvkugesy2u.gz
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\staticwebassets.build.json
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\staticwebassets.development.json
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\swae.build.ex.cache
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\BlogWithEf.csproj.Up2Date
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\BlogWithEf.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\refint\BlogWithEf.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\BlogWithEf.pdb
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\BlogWithEf.genruntimeconfig.cache
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\ref\BlogWithEf.dll
+D:\MPTC - 2nd Term\ASP.NET\BlogWithEf\obj\Debug\net10.0\compressed\iipnr7dfha-{0}-5tsfyrka9f-5tsfyrka9f.gz
+A:\Website\BlogWithEf\bin\Debug\net10.0\appsettings.Development.json
+A:\Website\BlogWithEf\bin\Debug\net10.0\appsettings.json
+A:\Website\BlogWithEf\bin\Debug\net10.0\BlogWithEf.staticwebassets.endpoints.json
+A:\Website\BlogWithEf\bin\Debug\net10.0\BlogWithEf.staticwebassets.runtime.json
+A:\Website\BlogWithEf\bin\Debug\net10.0\BlogWithEf.exe
+A:\Website\BlogWithEf\bin\Debug\net10.0\BlogWithEf.deps.json
+A:\Website\BlogWithEf\bin\Debug\net10.0\BlogWithEf.runtimeconfig.json
+A:\Website\BlogWithEf\bin\Debug\net10.0\BlogWithEf.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\BlogWithEf.pdb
+A:\Website\BlogWithEf\bin\Debug\net10.0\Humanizer.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\Mono.TextTemplating.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\Newtonsoft.Json.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\System.CodeDom.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\System.Composition.Convention.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\System.Composition.Hosting.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\System.Composition.Runtime.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\System.Composition.TypedParts.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+A:\Website\BlogWithEf\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+A:\Website\BlogWithEf\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+A:\Website\BlogWithEf\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+A:\Website\BlogWithEf\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+A:\Website\BlogWithEf\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+A:\Website\BlogWithEf\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+A:\Website\BlogWithEf\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+A:\Website\BlogWithEf\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+A:\Website\BlogWithEf\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+A:\Website\BlogWithEf\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+A:\Website\BlogWithEf\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+A:\Website\BlogWithEf\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+A:\Website\BlogWithEf\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+A:\Website\BlogWithEf\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+A:\Website\BlogWithEf\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+A:\Website\BlogWithEf\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+A:\Website\BlogWithEf\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+A:\Website\BlogWithEf\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+A:\Website\BlogWithEf\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+A:\Website\BlogWithEf\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+A:\Website\BlogWithEf\obj\Debug\net10.0\BlogWithEf.csproj.AssemblyReference.cache
+A:\Website\BlogWithEf\obj\Debug\net10.0\rpswa.dswa.cache.json
+A:\Website\BlogWithEf\obj\Debug\net10.0\BlogWithEf.GeneratedMSBuildEditorConfig.editorconfig
+A:\Website\BlogWithEf\obj\Debug\net10.0\BlogWithEf.AssemblyInfoInputs.cache
+A:\Website\BlogWithEf\obj\Debug\net10.0\BlogWithEf.AssemblyInfo.cs
+A:\Website\BlogWithEf\obj\Debug\net10.0\BlogWithEf.csproj.CoreCompileInputs.cache
+A:\Website\BlogWithEf\obj\Debug\net10.0\BlogWithEf.MvcApplicationPartsAssemblyInfo.cache
+A:\Website\BlogWithEf\obj\Debug\net10.0\BlogWithEf.RazorAssemblyInfo.cache
+A:\Website\BlogWithEf\obj\Debug\net10.0\BlogWithEf.RazorAssemblyInfo.cs
+A:\Website\BlogWithEf\obj\Debug\net10.0\rjimswa.dswa.cache.json
+A:\Website\BlogWithEf\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+A:\Website\BlogWithEf\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+A:\Website\BlogWithEf\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+A:\Website\BlogWithEf\obj\Debug\net10.0\scopedcss\bundle\BlogWithEf.styles.css
+A:\Website\BlogWithEf\obj\Debug\net10.0\scopedcss\projectbundle\BlogWithEf.bundle.scp.css
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\yv2e3t8klz-{0}-61n19gt1b8-61n19gt1b8.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\nvbiyjdoma-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\mzittzj1hq-{0}-bqjiyaj88i-bqjiyaj88i.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\v22obz182i-{0}-c2jlpeoesf-c2jlpeoesf.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\bz7y87vc1g-{0}-erw9l3u2r3-erw9l3u2r3.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\9ob9bcdmpy-{0}-aexeepp0ev-aexeepp0ev.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\p8dzot382b-{0}-d7shbmvgxk-d7shbmvgxk.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\s3rtigz928-{0}-ausgxo2sd3-ausgxo2sd3.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\rzi588mdhl-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\76oh917znr-{0}-cosvhxvwiu-cosvhxvwiu.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\elibkmaugc-{0}-ub07r2b239-ub07r2b239.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\fp5p6clq22-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\4sbpentmln-{0}-b7pk76d08c-b7pk76d08c.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\amqqsxksqm-{0}-fsbi9cje9m-fsbi9cje9m.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\wkp27ialq7-{0}-rzd6atqjts-rzd6atqjts.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\4b85i9vjww-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\eg78bk09gm-{0}-dxx9fxp4il-dxx9fxp4il.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\k9cb4lowsx-{0}-jd9uben2k1-jd9uben2k1.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\b9wooq9yv0-{0}-khv3u5hwcm-khv3u5hwcm.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\6gd2wklzli-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\ikzn0uirmo-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\46aseiablx-{0}-c2oey78nd0-c2oey78nd0.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\uix4umo4kk-{0}-tdbxkamptv-tdbxkamptv.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\gic587k3en-{0}-j5mq2jizvt-j5mq2jizvt.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\pkqml1jwxl-{0}-06098lyss8-06098lyss8.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\6s2slewqnd-{0}-nvvlpmu67g-nvvlpmu67g.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\uucugfqnjh-{0}-s35ty4nyc5-s35ty4nyc5.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\xni0d9xqee-{0}-pj5nd1wqec-pj5nd1wqec.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\90hacay57y-{0}-46ein0sx1k-46ein0sx1k.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\2wtw2a3tgc-{0}-v0zj4ognzu-v0zj4ognzu.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\dufb8g1xae-{0}-37tfw0ft22-37tfw0ft22.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\5u6my4eqee-{0}-hrwsygsryq-hrwsygsryq.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\9ngvc67nuh-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\5da2bfyqnm-{0}-ft3s53vfgj-ft3s53vfgj.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\4ac4o7mjhi-{0}-6cfz1n2cew-6cfz1n2cew.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\id6n659ohw-{0}-6pdc2jztkx-6pdc2jztkx.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\8xyg5baoly-{0}-493y06b0oq-493y06b0oq.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\ydhgi3e3o6-{0}-iovd86k7lj-iovd86k7lj.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\4j9chliwnf-{0}-vr1egmr9el-vr1egmr9el.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\9uamfc30ff-{0}-kbrnm935zg-kbrnm935zg.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\jja3svp98v-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\ldwved04km-{0}-y7v9cxd14o-y7v9cxd14o.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\jhepc2gxnp-{0}-notf2xhcfb-notf2xhcfb.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\gosz32n2dg-{0}-h1s4sie4z3-h1s4sie4z3.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\2fsj8sle9y-{0}-63fj8s7r0e-63fj8s7r0e.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\zqdq0iudpl-{0}-0j3bgjxly4-0j3bgjxly4.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\aaprillz4k-{0}-47otxtyo56-47otxtyo56.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\zyym5adxyr-{0}-4v8eqarkd7-4v8eqarkd7.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\t2ak7rdunu-{0}-356vix0kms-356vix0kms.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\99j4kkclxy-{0}-83jwlth58m-83jwlth58m.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\ysy34k91o3-{0}-mrlpezrjn3-mrlpezrjn3.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\2pc76agarx-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\vdh0f9rv9f-{0}-ag7o75518u-ag7o75518u.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\0z9pujnvxb-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\0795tulmp2-{0}-0i3buxo5is-0i3buxo5is.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\wayxh6p5yw-{0}-o1o13a6vjx-o1o13a6vjx.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\sienhe6nfv-{0}-ttgo8qnofa-ttgo8qnofa.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\yvjzj0ye4u-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\ciu3ozcjjf-{0}-muycvpuwrr-muycvpuwrr.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\ky46fw8nf0-{0}-87fc7y1x7t-87fc7y1x7t.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\25z8fkzqdo-{0}-mlv21k5csn-mlv21k5csn.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\a1u3mbisua-{0}-rvkugesy2u-rvkugesy2u.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\qpm76n4ngd-{0}-rvkugesy2u-rvkugesy2u.gz
+A:\Website\BlogWithEf\obj\Debug\net10.0\staticwebassets.build.json
+A:\Website\BlogWithEf\obj\Debug\net10.0\staticwebassets.build.json.cache
+A:\Website\BlogWithEf\obj\Debug\net10.0\staticwebassets.development.json
+A:\Website\BlogWithEf\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+A:\Website\BlogWithEf\obj\Debug\net10.0\swae.build.ex.cache
+A:\Website\BlogWithEf\obj\Debug\net10.0\BlogWithEf.csproj.Up2Date
+A:\Website\BlogWithEf\obj\Debug\net10.0\BlogWithEf.dll
+A:\Website\BlogWithEf\obj\Debug\net10.0\refint\BlogWithEf.dll
+A:\Website\BlogWithEf\obj\Debug\net10.0\BlogWithEf.pdb
+A:\Website\BlogWithEf\obj\Debug\net10.0\BlogWithEf.genruntimeconfig.cache
+A:\Website\BlogWithEf\obj\Debug\net10.0\ref\BlogWithEf.dll
+A:\Website\BlogWithEf\obj\Debug\net10.0\compressed\iipnr7dfha-{0}-55a350z3ck-55a350z3ck.gz
